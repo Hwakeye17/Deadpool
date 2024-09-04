@@ -1,0 +1,252 @@
+version: 3
+domain: movies
+created_by: Ruchir
+seed_examples:
+  - context: |
+      Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics
+      featuring the characters Deadpool and Wolverine.
+      Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment,
+      and distributed by Walt Disney Studios Motion Pictures,
+      it is the 34th film in the Marvel Cinematic Universe (MCU)
+      and the sequel to Deadpool (2016) and Deadpool 2 (2018).
+      The film was directed by Shawn Levy from a screenplay he wrote
+      with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells.
+      Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool
+      and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney,
+      Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film,
+      Deadpool learns that the Time Variance Authority is set to destroy his home
+      universe and works with a reluctant Wolverine from another universe to stop them.
+    questions_and_answers:
+      - question: |
+          Who directed Deadpool & Wolverine?
+        answer: |
+          Shawn Levy directed Deadpool & Wolverine.
+      - question: |
+          Who stars as Wade Wilson / Deadpool in Deadpool & Wolverine?
+        answer: |
+          Ryan Reynolds stars as Wade Wilson / Deadpool.
+      - question: |
+          What is the plot of Deadpool & Wolverine?
+        answer: |
+          Deadpool learns that the Time Variance Authority is set to destroy his home universe and works with a
+          reluctant Wolverine from another universe to stop them.
+      - question: |
+          Who stars as Logan / Wolverine in Deadpool & Wolverine?
+        answer: |
+          Hugh Jackman stars as Logan / Wolverine.
+      - question: |
+          What is the release date of Deadpool & Wolverine?
+        answer: |
+          Deadpool & Wolverine was released on July 26, 2024.
+  - context: |
+      Development on a third Deadpool film began at 20th Century Fox by November 2016,
+      but was placed on hold after the studio was acquired by Disney in March 2019.
+      Control of the character and Fox's X-Men film series was transferred to Marvel
+      Studios, which began developing a new film with Reynolds.
+      It integrates Deadpool with the MCU and retains the R rating of the previous
+      Deadpool films, a first for the MCU.
+      Wendy Molyneux and Lizzie Molyneux-Logelin joined in November 2020 as writers.
+      Reese and Wernick returned from the previous films for rewrites by March 2022,
+      when Levy was hired as director. They, along with Reynolds and Wells,
+      had difficulty figuring out the film's story until Jackman decided
+      to reprise his role as Wolverine from the X-Men films in August 2022.
+      Several other actors from the X-Men films and other Marvel productions
+      also returned as part of the film's multiverse story, which serves as a tribute
+      to Fox's Marvel films. Filming began in May 2023 at Pinewood
+      Studios in England, with additional filming in Norfolk, Los Angeles, and at
+      Bovingdon Film Studios. Production was suspended in July due to
+      the 2023 SAG-AFTRA strike, but resumed in November and wrapped in January 2024.
+      The title was revealed a month later.
+    questions_and_answers:
+      - question: |
+          When did development on a third Deadpool film begin?
+        answer: |
+          Development on a third Deadpool film began in November 2016.
+      - question: |
+          Who joined as writers for the third Deadpool film in November 2020?
+        answer: |
+          Wendy Molyneux and Lizzie Molyneux-Logelin joined as writers.
+      - question: |
+          When was Shawn Levy hired as the director for Deadpool & Wolverine?
+        answer: |
+          Shawn Levy was hired as the director in March 2022.
+      - question: |
+          When did Hugh Jackman decide to reprise his role as Wolverine?
+        answer: |
+          Hugh Jackman decided to reprise his role as Wolverine in August 2022.
+      - question: |
+          When did filming for Deadpool & Wolverine begin?
+        answer: |
+          Filming began in May 2023.
+  - context: |
+      In 2018, after Wade Wilson uses Cable's time-travel device to prevent the death
+      of his girlfriend Vanessa, he travels from his universe,
+      Earth-10005, to Earth-616 on the "Sacred Timeline", hoping to join the Avengers
+      and give his life added meaning. He is rejected by Happy Hogan
+      and returns to his universe. Six years later, Wade has broken up with Vanessa,
+      retired from being the masked mercenary Deadpool, and works as a
+      used-car salesman with his friend and former X-Force member, Peter.
+    questions_and_answers:
+      - question: |
+          What does Wade Wilson do after being rejected by Happy Hogan?
+        answer: |
+          Wade Wilson returns to his universe.
+      - question: |
+          What is Wade Wilson's job six years after the events of 2018?
+        answer: |
+          Wade Wilson works as a used-car salesman.
+      - question: |
+          Who does Wade Wilson work with as a used-car salesman?
+        answer: |
+          Wade Wilson works with his friend and former X-Force member, Peter.
+      - question: |
+          What does Wade Wilson hope to achieve by traveling to Earth-616?
+        answer: |
+          Wade Wilson hopes to join the Avengers and give his life added meaning.
+      - question: |
+          What is the name of Wade Wilson's girlfriend?
+        answer: |
+          Vanessa.
+  - context: |
+      During Wade's birthday party, the Time Variance Authority (TVA) captures him
+      and brings him to Paradox, who explains that they are
+      an organization outside of time that monitors the Sacred Timeline and wider
+      multiverse, and that they have been watching over him for a while.
+      Paradox reveals that Wade's timeline is deteriorating as a result of the death
+      of its stabilizing "anchor being", Logan, while protecting
+      his daughter Laura. Paradox plans to use a "Time Ripper" device to accelerate
+      this process and offers to spare Wade by sending him to the
+      Sacred Timeline where he is expected to play an important role in future events.
+      Wade steals Paradox's TemPad and uses it to travel to Logan's grave,
+      hoping to resurrect him and save their timeline. When this fails, Wade travels the
+      multiverse searching for a replacement alternate universe "variant" of Logan.
+    questions_and_answers:
+      - question: |
+          What organization captures Wade Wilson during his birthday party?
+        answer: |
+          The Time Variance Authority (TVA) captures Wade Wilson.
+      - question: |
+          What does Paradox reveal about Wade Wilson's timeline?
+        answer: |
+          Paradox reveals that Wade's timeline is deteriorating due to the death of Logan.
+      - question: |
+          What device does Paradox plan to use to accelerate the deterioration of Wade's timeline?
+        answer: |
+          Paradox plans to use a "Time Ripper" device.
+      - question: |
+          What does Wade Wilson do after failing to resurrect Logan?
+        answer: |
+          Wade Wilson travels the multiverse searching for a replacement variant of Logan.
+      - question: |
+          What does Wade Wilson steal from Paradox?
+        answer: |
+          Wade Wilson steals Paradox's TemPad.
+  - context: |
+      Ryan Reynolds as Wade Wilson / Deadpool:
+      A wisecracking mercenary from Earth-10005 with accelerated healing but
+      severe scarring over his body after undergoing an experimental
+      regenerative mutation to treat terminal cancer. Wade begins the film
+      retired from being Deadpool, no longer dating Vanessa, and working
+      as a used car salesman. Writer Rhett Reese described Deadpool as a
+      fish-out-of water in the film, a lunatic dropped into the "sane world"
+      of the Marvel Cinematic Universe (MCU). Though Reynolds said the audience
+      did not have to take Deadpool seriously, particularly with his
+      fourth wall breaking and unreliable narration, he wanted them to be invested
+      in the other characters. Deadpool's opening dance number
+      was performed by Nick Pauley, who is credited as "Dancepool". Reynolds also
+      portrays the variant Nicepool, who has no scars or healing factor,
+      for which he is credited as "Gordon Reynolds".
+    questions_and_answers:
+      - question: |
+          Who plays Wade Wilson / Deadpool in the film?
+        answer: |
+          Ryan Reynolds plays Wade Wilson / Deadpool.
+      - question: |
+          What is Wade Wilson's occupation at the beginning of the film?
+        answer: |
+          Wade Wilson is a used car salesman.
+      - question: |
+          What is the name of the variant of Deadpool that Ryan Reynolds also portrays?
+        answer: |
+          Nicepool.
+      - question: |
+          Who performed Deadpool's opening dance number?
+        answer: |
+          Nick Pauley performed Deadpool's opening dance number.
+      - question: |
+          What is the name of the actor credited as "Dancepool"?
+        answer: |
+          Nick Pauley.
+  - context: |
+      Levy worked with Marvel Studios and the producers of the Netflix series
+      Stranger Things (2016-present), on which he was an executive producer,
+      to allow him to direct for that series' final season since the schedules
+      for the two projects were expected to overlap. Filming was not expected to be
+      impacted by the 2023 Writers Guild of America strike that began in early May,
+      outside of Reynolds being unable to contribute to the script during
+      filming as he had done for the previous films. Marvel Studios was reportedly
+      planning to shoot what they could during principal photography and
+      ake any necessary writing adjustments during the film's already scheduled reshoots.
+    questions_and_answers:
+      - question: |
+          What other project was Levy working on alongside this film?
+        answer: |
+          Levy was also working on the final season of the Netflix series Stranger Things.
+      - question: |
+          How did the 2023 Writers Guild of America strike affect filming?
+        answer: |
+          The strike did not significantly impact filming, except that Reynolds
+          could not contribute to the script during filming.
+      - question: |
+          What was Marvel Studios' plan regarding the strike?
+        answer: |
+          Marvel Studios planned to shoot what they could during principal photography
+          and make writing adjustments during reshoots.
+      - question: |
+          What was Levy's role in Stranger Things?
+        answer: |
+          Levy was an executive producer on Stranger Things.
+      - question: |
+          Why were the schedules for the two projects expected to overlap?
+        answer: |
+          The schedules were expected to overlap because Levy was involved in both projects
+  - context: |
+      Levy acknowledged some of the casting rumors surrounding the film—including
+      Garner appearing as Elektra, Liev Schreiber returning as Victor
+      Creed / Sabretooth from X-Men Origins: Wolverine (2009), and Taylor Swift making
+      a cameo appearance as Dazzler—and said some of them were true,
+      but would not confirm which ones. Swift was later stated to not be appearing in
+      the film. Levy said the characters that were included, such as
+      Aaron Stanford reprising his role as John Allerdyce / Pyro from X2 (2003) and
+      X-Men: The Last Stand (2006), were added as the story developed
+      rather than being based on a wishlist of characters and cameos that the
+      producers wanted to include.
+    questions_and_answers:
+      - question: |
+          What casting rumors did Levy acknowledge?
+        answer: |
+          Levy acknowledged rumors about Jennifer Garner as Elektra, Liev Schreiber
+          as Sabretooth, and Taylor Swift as Dazzler.
+      - question: |
+          Which character was later confirmed not to be appearing in the film?
+        answer: |
+          Taylor Swift was later confirmed not to be appearing as Dazzler.
+      - question: |
+          How were characters included in the film?
+        answer: |
+          Characters were included as the story developed, not based on a wishlist.
+      - question: |
+          Who is reprising their role as John Allerdyce / Pyro?
+        answer: |
+          Aaron Stanford is reprising his role as John Allerdyce / Pyro.
+      - question: |
+          What previous films did Aaron Stanford appear in as Pyro?
+        answer: |
+          Aaron Stanford appeared in X2 (2003) and X-Men: The Last Stand (2006) as Pyro.
+document_outline: |
+  Details on Deadpool and Wolverine movie
+document:
+  repo: https://github.ibm.com/Ruchir-Darji1/Testing-InstructLab.git
+  commit: 2196a63
+  patterns:
+    - data.md
